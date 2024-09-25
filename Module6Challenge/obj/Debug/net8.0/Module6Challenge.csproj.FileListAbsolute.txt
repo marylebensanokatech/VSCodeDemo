@@ -1,0 +1,15 @@
+C:\Users\maryl\OneDrive - marylebens.com\_Minneapolis College\2505-Visual C# .NET Programming\VSCodeDemo\Module6Challenge\obj\Debug\net8.0\Module6Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maryl\OneDrive - marylebens.com\_Minneapolis College\2505-Visual C# .NET Programming\VSCodeDemo\Module6Challenge\obj\Debug\net8.0\Module6Challenge.AssemblyInfoInputs.cache
+C:\Users\maryl\OneDrive - marylebens.com\_Minneapolis College\2505-Visual C# .NET Programming\VSCodeDemo\Module6Challenge\obj\Debug\net8.0\Module6Challenge.AssemblyInfo.cs
+C:\Users\maryl\OneDrive - marylebens.com\_Minneapolis College\2505-Visual C# .NET Programming\VSCodeDemo\Module6Challenge\obj\Debug\net8.0\Module6Challenge.csproj.CoreCompileInputs.cache
+C:\Users\maryl\OneDrive - marylebens.com\_Minneapolis College\2505-Visual C# .NET Programming\VSCodeDemo\Module6Challenge\obj\Debug\net8.0\Module6Challenge.sourcelink.json
+C:\Users\maryl\OneDrive - marylebens.com\_Minneapolis College\2505-Visual C# .NET Programming\VSCodeDemo\Module6Challenge\bin\Debug\net8.0\Module6Challenge.exe
+C:\Users\maryl\OneDrive - marylebens.com\_Minneapolis College\2505-Visual C# .NET Programming\VSCodeDemo\Module6Challenge\bin\Debug\net8.0\Module6Challenge.deps.json
+C:\Users\maryl\OneDrive - marylebens.com\_Minneapolis College\2505-Visual C# .NET Programming\VSCodeDemo\Module6Challenge\bin\Debug\net8.0\Module6Challenge.runtimeconfig.json
+C:\Users\maryl\OneDrive - marylebens.com\_Minneapolis College\2505-Visual C# .NET Programming\VSCodeDemo\Module6Challenge\bin\Debug\net8.0\Module6Challenge.dll
+C:\Users\maryl\OneDrive - marylebens.com\_Minneapolis College\2505-Visual C# .NET Programming\VSCodeDemo\Module6Challenge\bin\Debug\net8.0\Module6Challenge.pdb
+C:\Users\maryl\OneDrive - marylebens.com\_Minneapolis College\2505-Visual C# .NET Programming\VSCodeDemo\Module6Challenge\obj\Debug\net8.0\Module6Challenge.dll
+C:\Users\maryl\OneDrive - marylebens.com\_Minneapolis College\2505-Visual C# .NET Programming\VSCodeDemo\Module6Challenge\obj\Debug\net8.0\refint\Module6Challenge.dll
+C:\Users\maryl\OneDrive - marylebens.com\_Minneapolis College\2505-Visual C# .NET Programming\VSCodeDemo\Module6Challenge\obj\Debug\net8.0\Module6Challenge.pdb
+C:\Users\maryl\OneDrive - marylebens.com\_Minneapolis College\2505-Visual C# .NET Programming\VSCodeDemo\Module6Challenge\obj\Debug\net8.0\Module6Challenge.genruntimeconfig.cache
+C:\Users\maryl\OneDrive - marylebens.com\_Minneapolis College\2505-Visual C# .NET Programming\VSCodeDemo\Module6Challenge\obj\Debug\net8.0\ref\Module6Challenge.dll
